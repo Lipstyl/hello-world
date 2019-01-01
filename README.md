@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
 
-Hi, human
+Hi, human.
+You are shure?
